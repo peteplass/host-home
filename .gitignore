@@ -2,5 +2,5 @@
 **/dist
 **/output
 build
-
+.*
 personalNotes.md
